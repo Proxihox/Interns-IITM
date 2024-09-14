@@ -12,8 +12,8 @@ Quant Prep resources:
 1. [Brainstellar](https://brainstellar.com/puzzles)
 2. Heard on the Street
 3. 50 challenging problems in probability
-4. https://arithmetic.zetamac.com/
-5. DSA (Theory from GFG, practice on Leetcode)
+4. https://arithmetic.zetamac.com/ for mental math
+5. DSA (Theory from GFG/Google's Dev Guide, practice on Leetcode)
 6. CP on codeforces
 
 ## Some extra stuff I did which gave an advantage
@@ -21,8 +21,7 @@ Quant Prep resources:
 1. PuzzledQuant/OpenQuant (Any puzzle collection site)
 2. How to move mount Fuji 
 3. Test specific problem sets from [TraderMath](https://www.tradermath.org/)
-4. Lumosity app
-5. 
+4. Lumosity app for Optiver's ZAP-N
 
 
 ## Other resources I found and felt useful but couldn't complete:
