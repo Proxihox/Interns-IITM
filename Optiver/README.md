@@ -99,3 +99,25 @@ I came up with 2 strategies:
 
 I went ahead with the first strategy and got only 2 guesses right, for a score of (2/3 + 4/5) = 22/15 . After the game got over, I realised that I would have scored 2 points, if I had used the second strategy.
 
+### Dice problems
+
+After this there were a bunch of questions about betting on dices. The interviewer would make up a game and ask me to bet on which outcome was more likely. There were 4 or 5 questions asked in this aspect in increasing order of difficulty. 
+
+# Final Interview
+
+## Round 1 - HR
+
+Asked me which part of my resume I'd like to talk about. I chose to speak about my tenure as the contingent captain to the IGVC competition representing IITM. 
+I was grilled on this for a solid 30 minutes. Some questions they asked:
+1. What were your responsibilities as captain?
+2. How did you ensure better team bonding and cooperation?
+3. What would you say your biggest flaw was (as captain)?
+4. If I asked your teammates what your worst quality would be, what would be their answer?
+5. How did you address the problem of teammates not meeting the deadlines?
+6. What is the worst decision you took as a captain? What would you have done differently?
+
+## Round 2 - Technical 
+
+They made me play a game which I've recreated to the best of my memory with this python simulation:
+https://github.com/Proxihox/Optiver-Coin-Game
+
